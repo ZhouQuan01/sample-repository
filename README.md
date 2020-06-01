@@ -6,7 +6,7 @@ This repository is set up for testing and experimentation. Feel free to clone an
 
 Clone this repository to your local directory. Start by copying the URL for this Git repository to your clipboard:
 
-[!copy git URL to clipboard](img/clone-copy-clipboard.png)
+![copy git URL to clipboard](img/clone-copy-clipboard.png)
 
 Next, clone this repository to your local directory. Type "git clone" and then paste in the URL:
 
